@@ -33,5 +33,5 @@ Crea una página de un restaurante con React. Esta página debe contener al meno
 - Documentación oficial de React
 - Tutoriales de JavaScript en MDN.
 
-  # AUTOR:
+  #  AUTOR:
   Karen Salazar.
