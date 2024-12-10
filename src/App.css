@@ -1,0 +1,91 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  color: #926f6f;
+}
+
+header {
+  background-color: #070000;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 3px solid #efef26;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1s ease-in-out;
+}
+body h1 {
+  color:#fbfbfb
+
+}
+header h1 {
+  color: #fffbfb;
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+h2 {
+  color: #ff6f61;
+  text-align: center;
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #fbfbfb;
+  border-radius: 10px;
+  margin: 15px auto;
+  padding: 20px;
+  max-width: 500px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transform: scale(1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+li:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 10px rgba(0, 0, 0, 0.2);
+}
+
+li h3 {
+  color: #ff0000;
+  margin: 0;
+}
+
+li p {
+  margin: 5px 0;
+  font-size: 1rem;
+}
+
+.Person {
+  background-color: #f3f6f3;
+  border: 2px solid #c8d6c8;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px auto;
+  max-width: 400px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1s ease-in-out;
+}
+
+.Person span {
+  display: block;
+  font-size: 1.2rem;
+  color: #4a4a4a;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
