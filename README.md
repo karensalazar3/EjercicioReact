@@ -14,6 +14,13 @@ Perfeccionar tus habilidades de desarrollo en JavaScript.
 # ✨ Descripción del Ejercicio
 En este ejercicio, crearemos un componente llamado Person que acepta las props name, surname y age. Este componente mostrará estos datos dentro de etiquetas <span>. Además, el componente se utilizará al menos tres veces con valores diferentes para las props.
 
+## 🍽️ Ejercicio 2: Crear una página de restaurante
+📝 Descripción del Ejercicio
+Crea una página de un restaurante con React. Esta página debe contener al menos dos componentes: Home y Header.
+
+Header: Componente para la cabecera de la página.
+Home: Este componente recibirá un array de platos como props y los renderizará.
+
 # 🚧 Tecnologías Utilizadas
 React: Librería principal para la creación de interfaces de usuario.
 JavaScript ES6+: Para el desarrollo de la lógica del proyecto.
