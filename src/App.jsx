@@ -29,6 +29,7 @@ function App() {
   return (
     <div>
       <Header />  
+      <img src="https://th.bing.com/th/id/OIP.cOiUqe84m90EJQ1-VSy9swAAAA?rs=1&pid=ImgDetMain" alt="Logo del Restaurante"className="header-logo" />
       <h1>Person List</h1>
       <Person name="Karen" surname="Salazar" age={30} />
       <Person name="Giancarlo" surname="Salazar" age={18} />

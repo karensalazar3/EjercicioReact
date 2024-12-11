@@ -1,8 +1,21 @@
-# React + Vite
+🦸‍♂️ Proyecto React: Ejercicio 1 - Crear una página de restaurante 🍽️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🚀 Introducción
+React es una librería de JavaScript que facilita la creación de interfaces de usuario interactivas. Es una biblioteca de código abierto construida por Facebook y es una de las bibliotecas más utilizadas para crear aplicaciones web.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎯 Objetivos del Proyecto
+Comprender cómo desarrollar una aplicación con React.
+Mejorar tus habilidades de desarrollo web.
+Perfeccionar tus habilidades de desarrollo en JavaScript.
+📚 Ejercicio 1: Crear un componente "Person"
+✨ Descripción del Ejercicio
+En este ejercicio, crearemos un componente llamado Person que acepta las props name, surname y age. Este componente mostrará estos datos dentro de etiquetas <span>. Además, el componente se utilizará al menos tres veces con valores diferentes para las props.
+
+🚧 Tecnologías Utilizadas
+React: Librería principal para la creación de interfaces de usuario.
+JavaScript ES6+: Para el desarrollo de la lógica del proyecto.
+CSS: Para el estilo de la página (opcional, puedes agregar un archivo .css).
+🔗 Recursos Adicionales
+Documentación oficial de React
+Tutoriales de JavaScript en MDN
