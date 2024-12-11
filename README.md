@@ -2,6 +2,9 @@
 # Ejercicio Crear una página de restaurante 🍽️
 # Restaurante Sushi 🍣🍚🍘
 
+![Logo del Restaurante](![Captura de pantalla 2024-12-11 021601](https://github.com/user-attachments/assets/311b74c6-7224-4a52-a9fb-58d801b5b7f0)
+)
+
 
 # 🚀 Introducción
 React es una librería de JavaScript que facilita la creación de interfaces de usuario interactivas. 
