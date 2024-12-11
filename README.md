@@ -2,7 +2,9 @@
 # Ejercicio Crear una página de restaurante 🍽️
 # Restaurante Sushi 🍣🍚🍘
 
-([Captura de pantalla 2024-12-11 021601](https://github.com/user-attachments/assets/311b74c6-7224-4a52-a9fb-58d801b5b7f0)
+(![image](https://github.com/user-attachments/assets/a1483176-948a-488c-8cce-8355432c35e4)
+)
+
 
 
 # 🚀 Introducción
